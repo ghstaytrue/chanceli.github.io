@@ -5,14 +5,12 @@
     
   <url>
     <loc>http://www.ilmadyna.com/2018/05/10/%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99%E6%A1%88%E4%BE%8B/</loc>
-    <lastmod>2018-05-12T04:37:30.741Z</lastmod>
+    <lastmod>2018-05-12T07:10:59.096Z</lastmod>
     <data>
         <display>
-        <title>关联规则案例</title>
+        <title>数据分析之关联规则案例</title>
         <pubTime>2018-05-10T09:02:55.157Z</pubTime>
         
-        <tag>数据挖掘</tag>
-         
         <tag>数据分析</tag>
          
         <tag>R</tag>
@@ -22,15 +20,14 @@
          
            
              
-              <breadCrumb title="数据挖掘" url="http://www.ilmadyna.com/categories/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/"/>
+              <breadCrumb title="数据分析" url="http://www.ilmadyna.com/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
           
              
-              <breadCrumb title="数据分析" url="http://www.ilmadyna.com/categories/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+              <breadCrumb title="R" url="http://www.ilmadyna.com/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/R/"/>
           
              
-              <breadCrumb title="R" url="http://www.ilmadyna.com/categories/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/R/"/>
+              <breadCrumb title="关联规则" url="http://www.ilmadyna.com/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/R/%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99/"/>
           
-             
         </display>
     </data>
     </url>
