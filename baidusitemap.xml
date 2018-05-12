@@ -4,33 +4,8 @@
 
     
   <url>
-    <loc>http://www.ilmadyna.com/2018/05/09/%E7%94%B5%E5%95%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%9F%BA%E6%9C%AC%E6%8C%87%E6%A0%87%E4%BD%93%E7%B3%BB/</loc>
-    <lastmod>2018-05-12T08:43:35.011Z</lastmod>
-    <data>
-        <display>
-        <title>电商数据分析基本指标体系</title>
-        <pubTime>2018-05-09T06:33:08.476Z</pubTime>
-        
-        <tag>数据分析</tag>
-         
-        <tag>电商</tag>
-         
-         
-           
-             
-              <breadCrumb title="电商" url="http://www.ilmadyna.com/categories/%E7%94%B5%E5%95%86/"/>
-          
-             
-              <breadCrumb title="数据分析" url="http://www.ilmadyna.com/categories/%E7%94%B5%E5%95%86/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.ilmadyna.com/2018/05/10/%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99%E6%A1%88%E4%BE%8B/</loc>
-    <lastmod>2018-05-12T07:10:59.096Z</lastmod>
+    <lastmod>2018-05-12T09:24:36.145Z</lastmod>
     <data>
         <display>
         <title>数据分析之关联规则案例</title>
@@ -40,7 +15,32 @@
          
         <tag>R</tag>
          
-        <tag>关联规则</tag>
+         
+           
+             
+              <breadCrumb title="数据分析" url="http://www.ilmadyna.com/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+          
+             
+              <breadCrumb title="关联规则" url="http://www.ilmadyna.com/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99/"/>
+          
+             
+              <breadCrumb title="Apriori" url="http://www.ilmadyna.com/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99/Apriori/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>http://www.ilmadyna.com/2018/05/09/%E7%94%B5%E5%95%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%9F%BA%E6%9C%AC%E6%8C%87%E6%A0%87%E4%BD%93%E7%B3%BB/</loc>
+    <lastmod>2018-05-12T09:15:17.103Z</lastmod>
+    <data>
+        <display>
+        <title>电商数据分析基本指标体系</title>
+        <pubTime>2018-05-09T06:33:08.476Z</pubTime>
+        
+        <tag>数据分析</tag>
          
          
            
@@ -48,16 +48,12 @@
               <breadCrumb title="数据分析" url="http://www.ilmadyna.com/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
           
              
-              <breadCrumb title="R" url="http://www.ilmadyna.com/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/R/"/>
-          
-             
-              <breadCrumb title="关联规则" url="http://www.ilmadyna.com/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/R/%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99/"/>
+              <breadCrumb title="电商数据" url="http://www.ilmadyna.com/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E7%94%B5%E5%95%86%E6%95%B0%E6%8D%AE/"/>
           
         </display>
     </data>
     </url>
 
-    
     
     
     
